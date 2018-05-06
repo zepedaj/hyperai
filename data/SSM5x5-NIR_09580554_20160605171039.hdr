@@ -1,0 +1,38 @@
+ENVI
+description = { XIMEA xiSpec MQ022HG-IM-SM5X5-NIR, SerNr 09580554, Sensor-SN 5.3.3.6
+date/time 20160605171039 }
+sensor type = IMEC SSM5x5-NIR
+file type = ENVI Standard
+header offset = 0
+samples = 409
+lines = 215
+bands = 25
+data type = 12
+interleave = bsq
+byte order = 0
+wavelength = {
+ 693.748,
+ 708.233,
+ 732.38,
+ 746.423,
+ 758.481,
+ 772.009,
+ 783.529,
+ 797.016,
+ 808.578,
+ 820.679,
+ 839.837,
+ 851.527,
+ 861.345,
+ 872.504,
+ 882.33,
+ 891.786,
+ 900.398,
+ 908.869,
+ 926.54,
+ 934.909,
+ 943.368,
+ 948.619,
+ 955.604,
+ 962.88,
+ 968.93}
