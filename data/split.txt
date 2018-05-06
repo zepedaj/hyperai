@@ -1,0 +1,9 @@
+rgb_apples:
+----------
+Train: Cols 231 and above
+Test: Cols below 231
+
+hyper_apples:
+-------------
+Train: Cols 197 and above
+Test: Cols below 197
